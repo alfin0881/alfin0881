@@ -1,6 +1,6 @@
 # Hallo Geyzt
 
-![banner](img/banner.jpg)
+![banner](img/banner1.jpg)
 
 <!--
 **alfin0881/alfin0881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
