@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hallo Geyzt
+
+![banner](img/banner.jpg)
 
 <!--
 **alfin0881/alfin0881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🤖 Saya sedang belajar **Laravel**.
+- Portfolio [Saya](https://alfin0881.github.io/portfolio/). 
+
