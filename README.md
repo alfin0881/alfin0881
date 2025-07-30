@@ -1,4 +1,4 @@
-# Hallo Geyzt, Saya Alfin Zakaria
+# Hallo Geyzt, Saya Ahmad Malfin Zakaria
 
 ![banner](img/header.png)
 
