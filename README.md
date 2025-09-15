@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,tailwind,laravel,mysql,python,php,nodejs,ubuntu,github,vscode,go,vite,linkedin,git&theme=light&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,tailwind,laravel,mysql,python,php,nodejs,ubuntu,github,vscode,go,vite,linkedin,git&theme=&perline=8)](https://skillicons.dev)
 
 #### Other Skills
 
