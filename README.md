@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 > Artinya apa bang ?!😒
 
 - 🤖 Saya sedang belajar **Laravel**.
+
   
 #### Skills
 
