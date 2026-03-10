@@ -14,22 +14,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```php
-    public function love()
-    {
-        return response()->json([
-            "request" => "confess",
-            "target" => "she",
-            "message" => "love rejected",
-            "fallback" => "focus_on_self",
-            "system" => "still_running",
-        ], 403);
-    }
+```json                              
+{
+    "status" : "403 Forbidden",
+    "success": false,
+    "action" : "confess",
+    "target" : "she",
+    "result" : "rejected",
+    "next" : "self_improvement",
+    "brain" : "still_running"
+}
 ```
 
-
-
-  
 #### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=apple,html,css,javascript,tailwind,laravel,mysql,python,php,nodejs,ubuntu,debian,github,vscode,go,vite,linkedin,git,cs,flutter,cloudflare,ruby,django,aws,gcp,vscodium,htmx,docker,bootstrap,discord,mint,typescript,linux,npm,react,java,express,arch,vue,unreal,stackoverflow,ros,robloxstudio,powershell&theme=&perline=11)](https://skillicons.dev)
