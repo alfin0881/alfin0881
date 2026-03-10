@@ -14,14 +14,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-~~~
-{
-    "request": "love",
-    "response": "denied",
-    "fallback": "self_upgrade",
-    "system": "running"
-}
-~~~
+```php
+    public function love()
+    {
+        return response()->json([
+            "request" => "confess",
+            "target" => "she",
+            "message" => "love rejected",
+            "fallback" => "focus_on_self",
+            "system" => "still_running",
+        ], 403);
+    }
+```
+
+
 
   
 #### Skills
