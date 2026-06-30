@@ -12,19 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-```json                              
-{
-    "status" : "403 Forbidden",
-    "success": false,
-    "action" : "confess",
-    "target" : "she",
-    "result" : "rejected",
-    "next" : "self_improvement",
-    "brain" : "still_running"
-}
-```
+-->                           
 
 ### Skills
 
